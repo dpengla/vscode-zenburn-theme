@@ -4,7 +4,7 @@
   "description": "A low-contrast color theme for comfortable, extended coding sessions. Warm and easy on the eyes.",
   "repository": "https://github.com/dpengla/vscode-zenburn-theme",
   "version": "0.1.0",
-  "publisher": "dehuipeng",
+  "publisher": "depeng",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
